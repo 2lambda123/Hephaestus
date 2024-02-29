@@ -5,8 +5,8 @@
 
 - [Python](https://www.python.org) – Languages
 - [Matplotlib](http://matplotlib.org) – Charting Libraries
-- [Torch](http://torch.ch/) – Machine Learning Tools
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Torch](http://torch.ch/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -18,8 +18,8 @@ Full tech stack [here](/techstack.md)
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png' alt='Torch'/> [Torch](http://torch.ch/) – Machine Learning Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png' alt='Torch'/> [Torch](http://torch.ch/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/Hephaestus](https://github.com/2lambda123/Hephaestus)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|01/09/24 <br/>Report generated|
+|8<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
